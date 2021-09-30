@@ -1,5 +1,5 @@
 ### Hello there traveller, I see you're not from 'round these parts.
-##Let me tell you a little about myself..
+Let me tell you a little about myself..
 
 I am a web developer and designer, who.. Well develops and designs websites of course!
 
